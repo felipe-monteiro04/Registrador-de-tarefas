@@ -1,0 +1,44 @@
+body {
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 24px;
+}
+
+.title {
+    font-size: 48px;
+    color: rgb(238, 126, 7);
+    text-align: center;
+}
+
+.list-item {
+    margin-bottom: 24px;
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+}
+
+input {
+    position: absolute;
+    left: 600px;
+    height: 20px;
+    width: 500px;
+    background-color: transparent;
+    color: rgb(238, 126, 7);
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.add-task-button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: rgb(238, 126, 7);
+    border-radius: 900px;
+    color: white;
+    position: absolute;
+    right: 490px;
+    text-transform: lowercase;
+}
