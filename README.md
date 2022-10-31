@@ -1,5 +1,7 @@
 
 <h1>Registrador de tarefas</h1>
-<p>Link do site no GitHub Page a seguir: https://felipe-monteiro04.github.io/Registrador-de-tarefas/</p>
+<p>Projeto utilizando Html Css e JavaScript que tem seu uso de registrar tarefas para serem feitas ou qualquer outro tipo de anotação importante</p>
+<h2>Link do site no GitHub Page a seguir: </h2> 
+<p>https://felipe-monteiro04.github.io/Registrador-de-tarefas/</p>
 
-<h2>Screenshot do projeto abaixo: </h2> 
+<h3>Screenshot do projeto abaixo: </h3> 
